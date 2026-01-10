@@ -65,6 +65,7 @@
         "panel": "new",
         "showReuseMessage": false,
         "clear": true
+        "windows": ""
       },
       "runOptions": {
         "runOn": "folderOpen"
