@@ -2,7 +2,7 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "install-root-modules",
+      "label": "version-update",
       "type": "shell",
       "command": "npm install --silent --no-progress",
       "options": {
